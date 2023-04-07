@@ -1,0 +1,19 @@
+*, ::before, ::after{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  
+  color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-top{
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform : translate(0,50%);
+
+}
